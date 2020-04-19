@@ -22,5 +22,5 @@ You bet I do ! Because I did not even try to learn the "one-liner", turns out th
 div {
   padding: 15px 5px 10px 5px;
 }
-
+```
 To finish: take time to dive in Tania Rascia's posts, they're great !
