@@ -24,4 +24,4 @@ I skim a bunch of articles from newsletters everyday and sometimes I find someth
 
 ### Just for fun
 
-- [https://fabianburghardt.de/webolution/](Web evolution)
+- [Web evolution](https://fabianburghardt.de/webolution/)
