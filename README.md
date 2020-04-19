@@ -14,3 +14,4 @@ I skim a bunch of articles from newsletters everyday and sometimes I find someth
 ### Git
 
 - [GitHub hacks](https://github.com/AJuliette/tis/blob/master/git/github-hacks.md)
+- [My favourite Git commit](https://github.com/AJuliette/tis/blob/master/git/my-favourite-git-commit.md)
