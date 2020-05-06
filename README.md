@@ -10,7 +10,7 @@ I skim a bunch of articles from newsletters everyday and sometimes I find someth
 * [CSS](#CSS)
 * [Git](#git)
 * [Ruby](#ruby)
-* [Just For Fun](#fun)
+* [Fun](#fun)
 
 <hr/>
 
@@ -19,6 +19,7 @@ I skim a bunch of articles from newsletters everyday and sometimes I find someth
 - [Overview of CSS concepts](https://github.com/AJuliette/tis/blob/master/css/overview-of-css-concepts.md)
 - [Spacing in CSS](https://github.com/AJuliette/tis/blob/master/css/spacing-in-css.md)
 - [The picture element](https://github.com/AJuliette/tis/blob/master/css/the-picture-element.md)
+- [The `<br>` elements are only here to break poems or addresses](https://github.com/AJuliette/tis/blob/master/css/the_br_elements_are_only_here_to_break_poems_or_addresses.md)
 
 ### Git
 
@@ -28,6 +29,6 @@ I skim a bunch of articles from newsletters everyday and sometimes I find someth
 ### Ruby
 - [What happens when you put two strings next to each other](https://github.com/AJuliette/tis/blob/master/ruby/what_happens_when_you_put_two_strings_next_to_each_other.md)
 
-### Just for fun
+### Fun
 
 - [Web evolution](https://fabianburghardt.de/webolution/)
