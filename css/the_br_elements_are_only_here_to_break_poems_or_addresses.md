@@ -1,4 +1,4 @@
-## The <br> elements are only here to break poems or addresses
+## The `<br>` elements are only here to break poems or addresses
 
 [Source](https://webplatform.news/issues/2020-04-29#when-not-to-use-the-br-element)
 
