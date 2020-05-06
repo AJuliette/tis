@@ -8,7 +8,7 @@ Like this:
 
 ```html
 <p>
-And then my heart with pleasure fills,<br>
-And dances with the daffodils.
+  And then my heart with pleasure fills,<br>
+  And dances with the daffodils.
 </p>
 ```
