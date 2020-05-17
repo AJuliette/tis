@@ -9,6 +9,7 @@ I skim a bunch of articles from newsletters everyday and sometimes I find someth
 
 * [CSS](#CSS)
 * [Git](#git)
+* [Html](#html)
 * [Ruby](#ruby)
 * [Fun](#fun)
 
@@ -26,6 +27,10 @@ I skim a bunch of articles from newsletters everyday and sometimes I find someth
 
 - [GitHub hacks](https://github.com/AJuliette/tis/blob/master/git/github-hacks.md)
 - [My favourite Git commit](https://github.com/AJuliette/tis/blob/master/git/my-favourite-git-commit.md)
+
+### Html
+
+- [Invalid html will mess up your form](https://github.com/AJuliette/tis/blob/master/html/invalid-html-will-mess-up-your-form.md)
 
 ### Ruby
 - [What happens when you put two strings next to each other](https://github.com/AJuliette/tis/blob/master/ruby/what_happens_when_you_put_two_strings_next_to_each_other.md)
