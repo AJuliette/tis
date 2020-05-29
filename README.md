@@ -23,6 +23,7 @@ I skim a bunch of articles from newsletters everyday and sometimes I find someth
 - [The `<br>` elements are only here to break poems or addresses](https://github.com/AJuliette/tis/blob/master/css/the_br_elements_are_only_here_to_break_poems_or_addresses.md)
 - [We have a Holy Grail](https://github.com/AJuliette/tis/blob/master/css/we-have-a-holy-grail.md)
 - [Data loss](https://github.com/AJuliette/tis/blob/master/css/data-loss.md)
+- [The "responsive" you always hear about comes from architecture design](https://github.com/AJuliette/tis/blob/master/css/responsive-comes-from-architecture.md)
 
 ### Git
 
