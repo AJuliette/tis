@@ -36,6 +36,7 @@ I skim a bunch of articles from newsletters everyday and sometimes I find someth
 
 ### Ruby
 - [What happens when you put two strings next to each other](https://github.com/AJuliette/tis/blob/master/ruby/what_happens_when_you_put_two_strings_next_to_each_other.md)
+- [Validates a checkbox checked](https://github.com/AJuliette/tis/blob/master/ruby/validates_checkbox_checked.md)
 
 ### Fun
 
