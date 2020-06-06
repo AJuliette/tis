@@ -10,6 +10,7 @@ I skim a bunch of articles from newsletters everyday and sometimes I find someth
 * [CSS](#CSS)
 * [Git](#git)
 * [Html](#html)
+* [Rails](#rails)
 * [Ruby](#ruby)
 * [Fun](#fun)
 
@@ -34,9 +35,12 @@ I skim a bunch of articles from newsletters everyday and sometimes I find someth
 
 - [Invalid html will mess up your form](https://github.com/AJuliette/tis/blob/master/html/invalid-html-will-mess-up-your-form.md)
 
+### Rails
+
+- [Validates a checkbox checked](https://github.com/AJuliette/tis/blob/master/rails/validates_checkbox_checked.md)
+
 ### Ruby
 - [What happens when you put two strings next to each other](https://github.com/AJuliette/tis/blob/master/ruby/what_happens_when_you_put_two_strings_next_to_each_other.md)
-- [Validates a checkbox checked](https://github.com/AJuliette/tis/blob/master/ruby/validates_checkbox_checked.md)
 
 ### Fun
 
